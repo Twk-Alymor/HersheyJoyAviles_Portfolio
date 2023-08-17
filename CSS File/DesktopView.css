@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root{
+	--main-color: rgb(244, 157, 169);
+	--light-main-color: rgb(254, 198, 207);
+	--lighter-shade: rgb(254, 198, 207);
+	--dark-main-color: rgb(252, 105, 131);
+	--darker-shade: rgb(131, 68, 92);
+	--alt-darker-shade: rgb(46, 36, 62);
+
+}
